@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+<group id="C08G01">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G02">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G03">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G04">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G05">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G06">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G07">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G08">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G09">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+<group id="C08G10">
+	<question>
+		<type>TF</type>
+		<id>1</id>
+		<text>This is a true statement.</text>
+		<answer correct="true">True</answer>
+		<answer correct="false">False</answer>
+	</question>
+	<question>
+		<type>TF</type>
+		<id>2</id>
+		<text>This is a false statement.</text>
+		<answer correct="false">True</answer>
+		<answer correct="true">False</answer>
+	</question>
+	<question>
+		<type>MC</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="false">second</answer>
+		<answer correct="true">third</answer>
+		<answer correct="false">second</answer>
+	</question>
+	<question>
+		<type>MA</type>
+		<id>1</id>
+		<text>A(n) ________ statement.</text>
+		<answer correct="false">first</answer>
+		<answer correct="true">second</answer>
+		<answer correct="true">first</answer>
+		<answer correct="true">second</answer>
+	</question>
+	<explanation>
+		<statement page="123">Statement</statement>
+	</explanation>
+</group>
+</quiz>
